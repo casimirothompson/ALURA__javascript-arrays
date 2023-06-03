@@ -1,3 +1,6 @@
+//o metodo push() pode adicionar novos elementos para as arrays, mas sempre como um ultimo valor, no ultimo indice.
+// o parametro dele é o dado que vc quer adiconar
+
 const notas = [10, 6, 8];
 console.log(notas);
 

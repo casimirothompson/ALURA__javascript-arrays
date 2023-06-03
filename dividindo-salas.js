@@ -1,3 +1,8 @@
+// o metodo slice() serve pra "dividir" elementos de uma array, ele basicamente seleciona uns itens e copia pra outra nova array atribuida 
+// ele tem 2 parametros, o 1° é o indice inicial, e o segundo é o indice que acaba, no caso é o indice que ele vai parar quando chegar digamos assim... 
+// se não houver 2° parametro, ele vai pegar todo o resto da array
+// os parametros podem ser um conta/expressão matematica
+
 const alunos = ["Jão", "Ana", "Lara", "Guilherme", "Fabiana", "Carlos", "Bia", "Isabela", "Renan", "Daisy", "Juliana", "Caio", "Marjorie", "Aline", "Andre", "Paulo", "Vivian", "vinicius", "renata", "camilo",]
 
 

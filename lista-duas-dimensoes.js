@@ -1,3 +1,9 @@
+// aqui temos as matrizes, é uma forma acessar uma variavel que tem/é 2 arrays e ai vc precisa acessar os itens da 1° ou segunda array
+//
+//
+//
+//
+
 const alunos = ["Jõao", "Juliana", "Ana", "Rodrigo"];
 console.log(alunos) // acessando array alunos
 

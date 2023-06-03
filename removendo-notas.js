@@ -1,3 +1,5 @@
+//o metodo pop() tira o ultimo elemento do array, no exemplo abaixo tirou os 2 ultimos elementos/itens.
+
 const notas = [10, 6, 8, 5.5, 10];
 console.log(notas);
 notas.pop();

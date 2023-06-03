@@ -1,3 +1,6 @@
+//metodo includes() procura determinado elemento dentro de um array e ver se é true ou false, o parametro é o dado que vc esta procurando
+//indexOf(elemento) procura pelo indice de determinado elemento, seu parametro é o nome do elemento que vc quer saber o indice
+
 const alunos = ["João", "Ana", "Juliana", "Caio"];
 const medias = ["10", "8", "6.5", "4.5"];
 
